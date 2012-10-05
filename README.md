@@ -19,7 +19,7 @@ You will need to make a clone of this repository into your packages folder, like
     git clone https://github.com/netsi1964/sublime-dynamicweb-snippets.git jQuery-Snippets
 
 ## Related ##
-
+Here are some related links:
 [sublime]: http://www.sublimetext.com/
 [Dynamicweb CMS]: http://www.dynamicweb.dk
 [Dwfeatures.com]: http://www.dwfeatures.com
