@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[
+<textarea name="debug" class="debug" cols="30" rows="10">
+  <xsl:text disable-output-escaping="yes"><![CDATA[<?xml version="1.0" encoding="utf-8"?>]]></xsl:text>
+  <xsl:comment> \files\templates\Template\${1:paragraph}\${2:filename.xslt} </xsl:comment>
+  <xsl:copy-of select="." />
+</textarea>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>dwTemplateTags</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>xml</scope>
+</snippet>
