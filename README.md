@@ -1,6 +1,10 @@
 sublime-dynamicweb-snippets
 ===========================
 
+## Development stopped ##
+
+I will put my efford at another gitbub: https://github.com/rcogm/ST2_DynamicWeb
+
 Collection of Dynamicweb CMS related snippets
 
 
